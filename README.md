@@ -130,10 +130,10 @@ This script will:
 
 ---
 
-References
-PyTorch Documentation: https://pytorch.org/docs/
-OpenGL Documentation: https://www.opengl.org/documentation/
-Gym Documentation: https://www.gymlibrary.dev/
-Wilson's Algorithm: https://en.wikipedia.org/wiki/Maze_generation_algorithm#Wilson's_algorithm
-Dijkstra's Algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+## References
+- PyTorch Documentation: https://pytorch.org/docs/
+- OpenGL Documentation: https://www.opengl.org/documentation/
+- Gym Documentation: https://www.gymlibrary.dev/
+- Wilson's Algorithm: https://en.wikipedia.org/wiki/Maze_generation_algorithm#Wilson's_algorithm
+- Dijkstra's Algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
